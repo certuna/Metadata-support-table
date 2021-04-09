@@ -1,0 +1,2771 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 15">
+<link rel=File-List href="Tags.fld/filelist.xml">
+<style id="Tags_13285_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\0027";}
+@page
+	{mso-footer-data:"&C&\0022Helvetica Neue\,Regular\0022&12&K000000&P";
+	margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;
+	mso-page-orientation:landscape;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl65
+	{mso-style-parent:style0;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:.5pt solid #AAAAAA;}
+.xl66
+	{mso-style-parent:style0;
+	border:none;
+	background:white;
+	mso-pattern:black none;}
+.xl67
+	{mso-style-parent:style0;
+	border-top:none;
+	border-right:.5pt solid #AAAAAA;
+	border-bottom:none;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;}
+.xl68
+	{mso-style-parent:style0;
+	mso-number-format:"\@";
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:.5pt solid #AAAAAA;}
+.xl69
+	{mso-style-parent:style0;
+	color:#ED7D31;
+	mso-number-format:"\@";
+	text-align:center;
+	border:none;
+	background:#FFF2CB;
+	mso-pattern:black none;}
+.xl70
+	{mso-style-parent:style0;
+	color:#ED7D31;
+	text-align:center;
+	border:none;
+	background:#FFF2CB;
+	mso-pattern:black none;}
+.xl71
+	{mso-style-parent:style0;
+	color:#ED7D31;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid #AAAAAA;
+	border-bottom:none;
+	border-left:none;
+	background:#FFF2CB;
+	mso-pattern:black none;}
+.xl72
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	border:none;
+	background:white;
+	mso-pattern:black none;}
+.xl73
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	text-align:center;
+	border:none;
+	background:white;
+	mso-pattern:black none;}
+.xl74
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid #AAAAAA;
+	border-bottom:none;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;}
+.xl75
+	{mso-style-parent:style0;
+	mso-number-format:"\@";
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid #AAAAAA;
+	border-left:.5pt solid #AAAAAA;}
+.xl76
+	{mso-style-parent:style0;
+	color:#ED7D31;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid #AAAAAA;
+	border-left:none;
+	background:#FFF2CB;
+	mso-pattern:black none;}
+.xl77
+	{mso-style-parent:style0;
+	color:#ED7D31;
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid #AAAAAA;
+	border-left:none;
+	background:#FFF2CB;
+	mso-pattern:black none;}
+.xl78
+	{mso-style-parent:style0;
+	color:#ED7D31;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid #AAAAAA;
+	border-bottom:.5pt solid #AAAAAA;
+	border-left:none;
+	background:#FFF2CB;
+	mso-pattern:black none;}
+.xl79
+	{mso-style-parent:style0;
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:.5pt solid #AAAAAA;}
+.xl80
+	{mso-style-parent:style0;
+	text-align:center;
+	border:none;
+	background:white;
+	mso-pattern:black none;}
+.xl81
+	{mso-style-parent:style0;
+	mso-number-format:"\@";
+	text-align:center;
+	border:none;
+	background:white;
+	mso-pattern:black none;}
+.xl82
+	{mso-style-parent:style0;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid #AAAAAA;
+	border-bottom:none;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;}
+.xl83
+	{mso-style-parent:style0;
+	text-align:center;}
+.xl84
+	{mso-style-parent:style0;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid #AAAAAA;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;}
+.xl85
+	{mso-style-parent:style0;
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid #AAAAAA;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;}
+.xl86
+	{mso-style-parent:style0;
+	color:white;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	border-top:.5pt solid #AAAAAA;
+	border-right:none;
+	border-bottom:none;
+	border-left:.5pt solid #AAAAAA;
+	background:black;
+	mso-pattern:black none;}
+.xl87
+	{mso-style-parent:style0;
+	color:white;
+	font-weight:700;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:.5pt solid #AAAAAA;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	background:black;
+	mso-pattern:black none;}
+.xl88
+	{mso-style-parent:style0;
+	color:white;
+	font-weight:700;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:.5pt solid #AAAAAA;
+	border-right:.5pt solid #AAAAAA;
+	border-bottom:none;
+	border-left:none;
+	background:black;
+	mso-pattern:black none;}
+-->
+</style>
+</head>
+
+<body link=blue vlink=fuchsia>
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+<!--The following information was generated by Microsoft Excel's Publish as Web
+Page wizard.-->
+<!--If the same item is republished from Excel, all information between the DIV
+tags will be replaced.-->
+<!----------------------------->
+<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
+<!----------------------------->
+
+<div id="Tags_13285" align=center x:publishsource="Excel">
+
+<table border=0 cellpadding=0 cellspacing=0 width=2472 style='border-collapse:
+ collapse;table-layout:fixed;width:1852pt'>
+ <col width=89 style='mso-width-source:userset;mso-width-alt:2858;width:67pt'>
+ <col class=xl83 width=433 style='mso-width-source:userset;mso-width-alt:13866;
+ width:325pt'>
+ <col class=xl83 width=105 style='mso-width-source:userset;mso-width-alt:3370;
+ width:79pt'>
+ <col class=xl83 width=287 style='mso-width-source:userset;mso-width-alt:9173;
+ width:215pt'>
+ <col class=xl83 width=288 style='mso-width-source:userset;mso-width-alt:9216;
+ width:216pt'>
+ <col width=127 span=10 style='mso-width-source:userset;mso-width-alt:4053;
+ width:95pt'>
+ <col width=87 style='mso-width-source:userset;mso-width-alt:2773;width:65pt'>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl86 width=89 style='height:15.25pt;width:67pt'><a
+  name="Print_Area">Type</a></td>
+  <td class=xl87 width=433 style='width:325pt'>Field</td>
+  <td class=xl87 width=105 style='width:79pt'>Level</td>
+  <td class=xl87 width=287 style='width:215pt'>id3v2.4</td>
+  <td class=xl87 width=288 style='width:216pt'>Vorbis</td>
+  <td class=xl87 width=127 style='width:95pt'>Kodi</td>
+  <td class=xl87 width=127 style='width:95pt'>Plex</td>
+  <td class=xl87 width=127 style='width:95pt'>Apple Music</td>
+  <td class=xl87 width=127 style='width:95pt'>Navidrome</td>
+  <td class=xl87 width=127 style='width:95pt'>Spotify</td>
+  <td class=xl87 width=127 style='width:95pt'>Subsonic API</td>
+  <td class=xl87 width=127 style='width:95pt'>Emby</td>
+  <td class=xl87 width=127 style='width:95pt'>Jellyfin</td>
+  <td class=xl87 width=127 style='width:95pt'>AirSonic</td>
+  <td class=xl88 width=127 style='width:95pt'>LMS</td>
+ </tr>
+ <tr class=xl83 height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl79 style='height:15.25pt'>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl81>37/70</td>
+  <td class=xl81>25/70</td>
+  <td class=xl81>24/70</td>
+  <td class=xl81>24/70</td>
+  <td class=xl81>18/70</td>
+  <td class=xl81>17/70</td>
+  <td class=xl81>17/70</td>
+  <td class=xl81>16/70</td>
+  <td class=xl81>0/0</td>
+  <td class=xl82>0/0</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Credits</td>
+  <td class=xl81>Artist</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TPE1,TXXX:Artists</td>
+  <td class=xl81>ARTIST, ARTISTS</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69>One</td>
+  <td class=xl69>One</td>
+  <td class=xl69>One</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69>One</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Credits</td>
+  <td class=xl81>Album Artist</td>
+  <td class=xl81>Album</td>
+  <td class=xl81>TPE2,TXXX:Album Artists</td>
+  <td class=xl81>ALBUMARTIST,ALBUMARTISTS</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69>One</td>
+  <td class=xl69>One</td>
+  <td class=xl69>One</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69>One</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Credits</td>
+  <td class=xl81>Conductor</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TPE3</td>
+  <td class=xl81>CONDUCTOR</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Credits</td>
+  <td class=xl81>Remixer</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TPE4</td>
+  <td class=xl81>REMIXER</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Credits</td>
+  <td class=xl81>Original Artist (for covers)</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TOPE</td>
+  <td class=xl81>ORIGINALARTIST</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Credits</td>
+  <td class=xl81>Composer</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TCOM</td>
+  <td class=xl81>COMPOSER</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69>One</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Credits</td>
+  <td class=xl81>Lyricist</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TEXT</td>
+  <td class=xl81>LYRICIST</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Credits</td>
+  <td class=xl81>Performers (Guitar, Vocals, etc)</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TMCL:Guitar,TMCL:Vocals</td>
+  <td class=xl81>GUITAR,VOCALS</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Credits</td>
+  <td class=xl81>Involvement (Producer, DJ mixer, etc)</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TIPL:Producer,TIPL:DJ-mix</td>
+  <td class=xl81>PRODUCER,DJMIXER</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl65 style='height:15.25pt'>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl67>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Album Name</td>
+  <td class=xl81>Album</td>
+  <td class=xl81>TALB</td>
+  <td class=xl81>ALBUM</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Compilation</td>
+  <td class=xl81>Album</td>
+  <td class=xl81>TCMP</td>
+  <td class=xl81>COMPILATION</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69>Algorithm</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69>Implicit</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Original Album Name (covers, etc)</td>
+  <td class=xl81>Album</td>
+  <td class=xl81>TOAL</td>
+  <td class=xl81>ORIGINALALBUM</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Media Type (CD, vinyl, etc)</td>
+  <td class=xl81>Album</td>
+  <td class=xl81>TMED</td>
+  <td class=xl81>MEDIA</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Label/Publisher</td>
+  <td class=xl81>Album</td>
+  <td class=xl81>TPUB</td>
+  <td class=xl81>LABEL,PUBLISHER</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Catalog Number</td>
+  <td class=xl81>Album</td>
+  <td class=xl81>TXXX:Catalognumber</td>
+  <td class=xl81>CATALOGNUMBER</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>ISRC code</td>
+  <td class=xl81>Album</td>
+  <td class=xl81>TSRC</td>
+  <td class=xl81>ISRC</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Album Info/Comments</td>
+  <td class=xl81>Album</td>
+  <td class=xl81>COMM</td>
+  <td class=xl81>COMMENTS</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69>One</td>
+  <td class=xl69>External</td>
+  <td class=xl69>External</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Album review</td>
+  <td class=xl81>Album</td>
+  <td class=xl81>COMM</td>
+  <td class=xl81>COMMENTS</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69>Allmusic</td>
+  <td class=xl69>Apple</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69>Spotify</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl65 style='height:15.25pt'>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl67>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Discnumber</td>
+  <td class=xl81>Disc (&quot;Set&quot;)</td>
+  <td class=xl81>TPOS</td>
+  <td class=xl81>DISCNUMBER</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69>Disc=Album</td>
+  <td class=xl69>Disc=Album</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Disc Subtitle</td>
+  <td class=xl81>Disc (&quot;Set&quot;)</td>
+  <td class=xl81>TSST</td>
+  <td class=xl81>DISCSUBTITLE</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Grouping</td>
+  <td class=xl81>Multiple songs</td>
+  <td class=xl81>GRP1</td>
+  <td class=xl81>GROUPING</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Work</td>
+  <td class=xl81>Multiple songs</td>
+  <td class=xl81>TIT1</td>
+  <td class=xl81>WORK</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl65 style='height:15.25pt'>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl67>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Title/Songname</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TIT2</td>
+  <td class=xl81>TITLE</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Song Subtitle/Description</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TIT3</td>
+  <td class=xl81>SUBTITLE,DESCRIPTION</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Movement (Name, Number)</td>
+  <td class=xl81>File</td>
+  <td class=xl81>MVMN,MVIN</td>
+  <td class=xl81>MOVEMENTNAME,MOVEMENT</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Encoded by</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TENC</td>
+  <td class=xl81>ENCODEDBY</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Language</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TLAN</td>
+  <td class=xl81>LANGUAGE</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Track Number</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TRCK</td>
+  <td class=xl81>TRACKNUMBER</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Genre</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TCON</td>
+  <td class=xl81>GENRE</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69>Album-level</td>
+  <td class=xl69>One</td>
+  <td class=xl69>One</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69>One</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Mood</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TMOO</td>
+  <td class=xl81>MOOD</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Key</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TKEY</td>
+  <td class=xl81>KEY</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>BPM</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TBPM</td>
+  <td class=xl81>BPM</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Multiple BPM sections in one song</td>
+  <td class=xl81>File</td>
+  <td class=xl81>SYTC</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Track Info/Comments</td>
+  <td class=xl81>File</td>
+  <td class=xl81>COMM</td>
+  <td class=xl81>COMMENTS</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Artist Info</td>
+  <td class=xl81>File</td>
+  <td class=xl81>COMM</td>
+  <td class=xl81>COMMENTS</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69>Allmusic/last.fm</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69>One</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl65 style='height:15.25pt'>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl67>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Timestamp</td>
+  <td class=xl81>Original Release Date (covers, classical compositions)</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TDOR</td>
+  <td class=xl81>ORIGINALDATE,ORIGINALYEAR</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69>Album-level</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Timestamp</td>
+  <td class=xl81>Recording Date</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TDRC</td>
+  <td class=xl81>RECORDINGDATE</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Timestamp</td>
+  <td class=xl81>Release Date (first release)</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TDRL,TDOR (*)</td>
+  <td class=xl81>DATE,YEAR</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69>Year only</td>
+  <td class=xl69>Year only</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69>Year only</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Timestamp</td>
+  <td class=xl81>Re-Release Date (compilations, reissues)</td>
+  <td class=xl81>Album</td>
+  <td class=xl81>TDRL (*)</td>
+  <td class=xl81>DATE,YEAR</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69>Yes (*)</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69>Yes (*)</td>
+  <td class=xl69>Yes (*)</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl65 style='height:15.25pt'>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl67>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Sort</td>
+  <td class=xl81>Album Title Sort</td>
+  <td class=xl81>Album</td>
+  <td class=xl81>TSOA</td>
+  <td class=xl81>ALBUMSORT</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69>Stored not used</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Sort</td>
+  <td class=xl81>Album Artist Sort</td>
+  <td class=xl81>Album</td>
+  <td class=xl81>TSO2</td>
+  <td class=xl81>ALBUMARTISTSORT</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69>Stored not used</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Sort</td>
+  <td class=xl81>Artist Sort</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TSOP</td>
+  <td class=xl81>ARTISTSORT</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69>Stored not used</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Sort</td>
+  <td class=xl81>Composer Sort</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TSOC</td>
+  <td class=xl81>COMPOSERSORT</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Sort</td>
+  <td class=xl81>Song Title Sort</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TSOT</td>
+  <td class=xl81>TITLESORT</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69>Stored not used</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl65 style='height:15.25pt'>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl67>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Image</td>
+  <td class=xl81>Album image</td>
+  <td class=xl81>Album</td>
+  <td class=xl81>APIC</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Image</td>
+  <td class=xl81>Artist image</td>
+  <td class=xl81>File</td>
+  <td class=xl81>APIC</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl69>External</td>
+  <td class=xl69>External</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69>Spotify</td>
+  <td class=xl69>Spotify</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69>External</td>
+  <td class=xl69>External</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Image</td>
+  <td class=xl81>Song image</td>
+  <td class=xl81>File</td>
+  <td class=xl81>APIC</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl65 style='height:15.25pt'>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl67>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Lyrics</td>
+  <td class=xl81>Time-synced lyrics</td>
+  <td class=xl81>File</td>
+  <td class=xl81>SYLT</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69>External</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Lyrics</td>
+  <td class=xl81>Unsynced lyrics</td>
+  <td class=xl81>File</td>
+  <td class=xl81>USLT</td>
+  <td class=xl81>LYRICS</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69>External</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl65 style='height:15.25pt'>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl67>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>MusicBrainz</td>
+  <td class=xl81>Release Type (album, single, live, dj-mix)</td>
+  <td class=xl81>Album</td>
+  <td class=xl81>TXXX:Musicbrainz Album Type</td>
+  <td class=xl81>RELEASETYPE</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69>Music/Audiobook</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>MusicBrainz</td>
+  <td class=xl81>Release Status (official, unofficial)</td>
+  <td class=xl81>Album</td>
+  <td class=xl81>TXXX:Musicbrainz Album Status</td>
+  <td class=xl81>MUSICBRAINZ_ALBUMSTATUS</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Description</td>
+  <td class=xl81>Album country</td>
+  <td class=xl81>Album</td>
+  <td class=xl81>TXXX:MusicBrainz Album Release Country</td>
+  <td class=xl81>RELEASECOUNTRY</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>MusicBrainz</td>
+  <td class=xl81>Release ID</td>
+  <td class=xl81>Album</td>
+  <td class=xl81>TXXX:</td>
+  <td class=xl81>MUSICBRAINZ_ALBUMID</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>MusicBrainz</td>
+  <td class=xl81>Album Artist ID</td>
+  <td class=xl81>Album</td>
+  <td class=xl81>TXXX:</td>
+  <td class=xl81>MUSICBRAINZ_ALBUMARTISTID</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>MusicBrainz</td>
+  <td class=xl81>Release Group ID</td>
+  <td class=xl81>Album</td>
+  <td class=xl81>TXXX:</td>
+  <td class=xl81>MUSICBRAINZ_RELEASEGROUPID</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>MusicBrainz</td>
+  <td class=xl81>Original Release ID</td>
+  <td class=xl81>Album</td>
+  <td class=xl81>TXXX:</td>
+  <td class=xl81>MUSICBRAINZ_ORIGINALALBUMID</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=23 style='mso-height-source:userset;height:17.0pt'>
+  <td height=23 class=xl68 style='height:17.0pt'>MusicBrainz</td>
+  <td class=xl81>Disc ID</td>
+  <td class=xl81>Disc (&quot;Set&quot;)</td>
+  <td class=xl81>TXXX:</td>
+  <td class=xl72>MUSICBRAINZ_DISCID</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=23 style='mso-height-source:userset;height:17.0pt'>
+  <td height=23 class=xl68 style='height:17.0pt'>MusicBrainz</td>
+  <td class=xl81>Work ID</td>
+  <td class=xl81>Multiple songs</td>
+  <td class=xl81>TXXX:</td>
+  <td class=xl72>MUSICBRAINZ_WORKID</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=23 style='mso-height-source:userset;height:17.0pt'>
+  <td height=23 class=xl68 style='height:17.0pt'>MusicBrainz</td>
+  <td class=xl81>AcoustID</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TXXX:</td>
+  <td class=xl72>ACOUSTID_ID,ACOUSTID_FINGERPRINT</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=23 style='mso-height-source:userset;height:17.0pt'>
+  <td height=23 class=xl68 style='height:17.0pt'>MusicBrainz</td>
+  <td class=xl81>Artist ID</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TXXX:</td>
+  <td class=xl72>MUSICBRAINZ_ARTISTID</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>MusicBrainz</td>
+  <td class=xl81>Original Artist ID</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TXXX:</td>
+  <td class=xl81>MUSICBRAINZ_ORIGINALARTISTID</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>MusicBrainz</td>
+  <td class=xl81>Recording ID</td>
+  <td class=xl81>File</td>
+  <td class=xl81>UFID</td>
+  <td class=xl81>MUSICBRAINZ_TRACKID</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>MusicBrainz</td>
+  <td class=xl81>Track ID</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TXXX:</td>
+  <td class=xl81>MUSICBRAINZ_RELEASETRACKID</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=23 style='mso-height-source:userset;height:17.0pt'>
+  <td height=23 class=xl65 style='height:17.0pt'>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl73>&nbsp;</td>
+  <td class=xl73>&nbsp;</td>
+  <td class=xl73>&nbsp;</td>
+  <td class=xl73>&nbsp;</td>
+  <td class=xl73>&nbsp;</td>
+  <td class=xl73>&nbsp;</td>
+  <td class=xl73>&nbsp;</td>
+  <td class=xl73>&nbsp;</td>
+  <td class=xl73>&nbsp;</td>
+  <td class=xl73>&nbsp;</td>
+  <td class=xl74>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Replaygain</td>
+  <td class=xl81>Album Gain/Peak/Range</td>
+  <td class=xl81>Album</td>
+  <td class=xl81>TXXX:</td>
+  <td class=xl81>REPLAYGAIN_ALBUM_GAIN,PEAK,RANGE</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=23 style='mso-height-source:userset;height:17.0pt'>
+  <td height=23 class=xl68 style='height:17.0pt'>Replaygain</td>
+  <td class=xl81>Reference Loudness</td>
+  <td class=xl81>Album</td>
+  <td class=xl81>TXXX:</td>
+  <td class=xl72>REPLAYGAIN_REFERENCE_LOUDNESS</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Replaygain</td>
+  <td class=xl81>Track Gain/Peak/Range</td>
+  <td class=xl81>File</td>
+  <td class=xl81>TXXX:</td>
+  <td class=xl81>REPLAYGAIN_TRACK_GAIN,PEAK,RANGE</td>
+  <td class=xl69 style='font-size:12.0pt;color:#006100;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#C6EFCE;mso-pattern:black none'>Yes</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl65 style='height:15.25pt'>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl66>&nbsp;</td>
+  <td class=xl67>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Link</td>
+  <td class=xl81>Website (Label)</td>
+  <td class=xl81>Album</td>
+  <td class=xl81>WPUB</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Link</td>
+  <td class=xl81>Custom link</td>
+  <td class=xl81>File</td>
+  <td class=xl81>WXXX</td>
+  <td class=xl80>&nbsp;</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl68 style='height:15.25pt'>Link</td>
+  <td class=xl81>Website (Artist)</td>
+  <td class=xl81>File</td>
+  <td class=xl81>WOAR</td>
+  <td class=xl81>WEBSITE</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl69 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl70>&nbsp;</td>
+  <td class=xl71>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.25pt'>
+  <td height=20 class=xl75 style='height:15.25pt'>Link</td>
+  <td class=xl84>Website (Audio)</td>
+  <td class=xl84>File</td>
+  <td class=xl84>WOAF</td>
+  <td class=xl85>&nbsp;</td>
+  <td class=xl76 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:none;border-bottom:.5pt solid #AAAAAA;
+  border-left:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl76 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:none;border-bottom:.5pt solid #AAAAAA;
+  border-left:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl76 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:none;border-bottom:.5pt solid #AAAAAA;
+  border-left:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl76 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:none;border-bottom:.5pt solid #AAAAAA;
+  border-left:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl76 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:none;border-bottom:.5pt solid #AAAAAA;
+  border-left:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl76 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:none;border-bottom:.5pt solid #AAAAAA;
+  border-left:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl76 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:none;border-bottom:.5pt solid #AAAAAA;
+  border-left:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl76 style='font-size:12.0pt;color:#9C0006;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:none;border-bottom:.5pt solid #AAAAAA;
+  border-left:none;background:#FFC7CE;mso-pattern:black none'>No</td>
+  <td class=xl77>&nbsp;</td>
+  <td class=xl78>&nbsp;</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=89 style='width:67pt'></td>
+  <td width=433 style='width:325pt'></td>
+  <td width=105 style='width:79pt'></td>
+  <td width=287 style='width:215pt'></td>
+  <td width=288 style='width:216pt'></td>
+  <td width=127 style='width:95pt'></td>
+  <td width=127 style='width:95pt'></td>
+  <td width=127 style='width:95pt'></td>
+  <td width=127 style='width:95pt'></td>
+  <td width=127 style='width:95pt'></td>
+  <td width=127 style='width:95pt'></td>
+  <td width=127 style='width:95pt'></td>
+  <td width=127 style='width:95pt'></td>
+  <td width=127 style='width:95pt'></td>
+  <td width=127 style='width:95pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+</body>
+
+</html>
